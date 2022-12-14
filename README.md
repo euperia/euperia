@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on PHP projects
-- 📫 How to reach me @euperia on Twitter
+- 📫 How to reach me @euperia on Twitter, or via my blog at [https://www.euperia.com](https://www.euperia.com)
 
 <!---
 euperia/euperia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
